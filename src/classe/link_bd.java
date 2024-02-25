@@ -20,11 +20,11 @@ public class link_bd {
     public static Statement statement = null;
 
     // String com o caminho onde está o banco de dados
-    String URL = "jdbc:mysql://localhost:3307/bd_hospital";
+    String URL = "jdbc:mysql://localhost:3306/bd_hospital";
     //Login
     String usuario = "root";
     //Senha
-    String senha = "usbw";
+    String senha = "";
     // Variavel para o comando SQL
     private Statement stm = null;
     // Variavel para a conexão
