@@ -17,7 +17,7 @@ Software que simula um sistema de chamadas de senha por prioridade de atendiment
 7. Com o **HeidiSQL** aberto vá para o diretório do projeto clonado e execute o arquivo *.sql*: `database_sistemasenha.sql`.
 8. Execute o script no **HeidiSQL** para criação do banco de dados e tabelas necessárias para o correto funcionamento do projeto. 
 9. Ainda no NetBeans, importe o driver `jdbc mySQL` ou similar. O mesmo terá o papel de operar o projeto de forma assíncrona ao banco de dados.
-10. Por fim execute o projeto.
+10. Por fim, execute o projeto.
 
 ## • Tecnologias e Linguagens
 
